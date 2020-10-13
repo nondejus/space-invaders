@@ -1,5 +1,7 @@
 # space invaders
 
+<img src="http://i.imgur.com/u2mss8o.png" width="300" height="240" />
+
 [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
 [![Module](https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
 [![Release](https://img.shields.io/badge/release-v1.0-orange.svg?style=flat)](http://www.leejamesrobinson.com/space-invaders.html)
@@ -17,7 +19,6 @@ the alien invasion is successful and the game ends. A special "mystery ship" wil
 screen and award bonus points if destroyed. The ship is partially protected by several stationary defense bunkers that are
 gradually destroyed by projectiles from the aliens and player.
 
-<img src="http://i.imgur.com/u2mss8o.png" width="300" height="240" />
 <img src="http://i.imgur.com/mR81p5O.png" width="300" height="240"/>
 
 ## how to play
