@@ -1,10 +1,10 @@
-# Space Invaders
+# space invaders
 
 [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
 [![Module](https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
 [![Release](https://img.shields.io/badge/release-v1.0-orange.svg?style=flat)](http://www.leejamesrobinson.com/space-invaders.html)
 
-## About
+## about
 
 Space Invaders is a two-dimensional fixed shooter game in which the player controls a ship with lasers by moving it horizontally
 across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of ten aliens that move
@@ -20,7 +20,7 @@ gradually destroyed by projectiles from the aliens and player.
 <img src="http://i.imgur.com/u2mss8o.png" width="300" height="240" />
 <img src="http://i.imgur.com/mR81p5O.png" width="300" height="240"/>
 
-## How To Play
+## how to play
 
 - If you don't have [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.
   **Note:** _The .exe file needs to stay in the same directory as the sounds, images, and font folders._
